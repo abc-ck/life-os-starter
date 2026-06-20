@@ -13,12 +13,17 @@ source: ai
 
 **When to read this:** Read for a quick explanation of the starter. If this is your first time here, open `FRIEND-SETUP-GUIDE.md` next.
 
+## quickest setup
+
+Open `INSTALL-WITH-AN-AGENT.md` for the GitHub download options and one prompt you can give to Claude Code or Codex.
+
 ## first time here
 
-1. Read `SYSTEM-EXPLAINED.md` for the plain-English idea.
-2. Follow `FRIEND-SETUP-GUIDE.md` one step at a time.
-3. Use `START-HERE.md` as the agent's setup checklist.
-4. Use `knowledge-map.md` for task routing after onboarding.
+1. Use `INSTALL-WITH-AN-AGENT.md` to make your own copy.
+2. Read `SYSTEM-EXPLAINED.md` for the plain-English idea.
+3. Follow `FRIEND-SETUP-GUIDE.md` one step at a time.
+4. Use `START-HERE.md` as the agent's setup checklist.
+5. Use `knowledge-map.md` for task routing after onboarding.
 
 ## methodology
 
