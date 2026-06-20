@@ -1,0 +1,17 @@
+.obsidian/
+.claude/
+.codex/
+.trash/
+.DS_Store
+**/.DS_Store
+00_inbox/attachments/
+*.log
+*.tmp
+*.swp
+.env
+.env.*
+*.key
+*.pem
+*.p12
+credentials.json
+secrets.json
