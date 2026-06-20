@@ -15,6 +15,8 @@ source: ai
 
 Before setup, you can read `SYSTEM-EXPLAINED.md` for a two-minute explanation of how the pieces work together.
 
+For a visual explanation of the knowledge-retrieval method and its measured results, open `READ-FIRST-KNOWLEDGE-SYSTEM.html` in a web browser.
+
 ## what this is
 
 Think of this folder as a small operating system for your notes and your AI assistant.

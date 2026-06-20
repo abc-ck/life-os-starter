@@ -17,6 +17,11 @@ source: ai
 
 Open `INSTALL-WITH-AN-AGENT.md` for the GitHub download options and one prompt you can give to Claude Code or Codex.
 
+## understand the knowledge system
+
+- Open `READ-FIRST-KNOWLEDGE-SYSTEM.html` in any browser for the plain-English explanation and measured before/after report.
+- Use `IMPLEMENT-KNOWLEDGE-SYSTEM-PROMPT.md` to add the same retrieval method to an existing Markdown vault.
+
 ## first time here
 
 1. Use `INSTALL-WITH-AN-AGENT.md` to make your own copy.
