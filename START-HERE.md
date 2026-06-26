@@ -1,7 +1,8 @@
 ---
 type: status
 created: 2026-06-19
-reviewed: 2026-06-19
+updated: 2026-06-26
+reviewed: 2026-06-26
 status: draft
 authority: canon
 source: ai
@@ -9,7 +10,7 @@ source: ai
 
 # start here
 
-**Bottom line:** This is a clean Obsidian agent-system starter. Its methodology is ready, but identity, areas, projects, priorities, routines, privacy choices, and agent behavior must be personalized through the onboarding interview.
+**Bottom line:** This is a clean Obsidian agent-system starter. Its default agent behavior is already baked in; identity, areas, projects, priorities, routines, privacy choices, and intentional deviations are personalized through the onboarding interview.
 
 **When to read this:** This is the agent's setup checklist. A new owner should begin with `FRIEND-SETUP-GUIDE.md` instead.
 
@@ -33,7 +34,7 @@ The owner may read `SYSTEM-EXPLAINED.md` for a plain-English overview. Do not pe
 Onboarding is complete when:
 
 - `os/me.md` accurately describes the owner and is approved.
-- `os/agent-rules.md` reflects the owner's communication and action boundaries.
+- `os/agent-rules.md` preserves the starter's baseline behavior and reflects any owner-approved communication or action-boundary changes.
 - `knowledge-map.md` routes the owner's real tasks.
 - Only justified areas, projects, businesses, and skills exist.
 - The validator passes.

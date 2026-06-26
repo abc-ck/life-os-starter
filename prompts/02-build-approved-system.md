@@ -1,7 +1,8 @@
 ---
 type: note
 created: 2026-06-20
-reviewed: 2026-06-20
+updated: 2026-06-26
+reviewed: 2026-06-26
 status: living
 authority: canon
 source: ai
@@ -23,7 +24,10 @@ Requirements:
 - Use only facts, preferences, folders, projects, areas, and routines that I
   approved.
 - Update os/me.md and knowledge/people/owner.md without overloading startup.
-- Personalize os/agent-rules.md only where my approved preferences differ.
+- Preserve the baked-in agent rules unless the approved blueprint explicitly
+  changes them.
+- Personalize os/agent-rules.md only where my approved preferences or
+  boundaries differ from the starter defaults.
 - Update knowledge-map.md and folder readmes to route my real tasks.
 - Create only approved area, project, business, and topic folders.
 - Keep uncertain material draft/exploratory.

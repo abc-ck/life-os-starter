@@ -1,7 +1,8 @@
 ---
 type: note
 created: 2026-06-20
-reviewed: 2026-06-20
+updated: 2026-06-26
+reviewed: 2026-06-26
 status: living
 authority: canon
 source: ai
@@ -33,6 +34,8 @@ Important rules:
 - Let me answer naturally and ask useful follow-ups.
 - I may skip anything sensitive.
 - Do not edit or create files during the interview.
+- Treat the starter's agent behavior in os/agent-rules.md and os/me.md as
+  the default. Learn what should be personalized or intentionally changed.
 - Do not copy another person's folders, priorities, routines, or identity.
 - Prefer the smallest useful system.
 - At the end, present a proposed blueprint and exact change list.

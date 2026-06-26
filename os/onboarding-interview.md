@@ -1,7 +1,8 @@
 ---
 type: status
 created: 2026-06-20
-reviewed: 2026-06-20
+updated: 2026-06-26
+reviewed: 2026-06-26
 status: living
 authority: canon
 source: ai
@@ -9,7 +10,7 @@ source: ai
 
 # onboarding interview
 
-**Bottom line:** Adaptive interview contract for learning the owner before personalizing the vault. It protects against copying someone else's life structure or building an elaborate system from assumptions.
+**Bottom line:** Adaptive interview contract for learning the owner before personalizing the vault. The starter already includes a strong default agent contract; the interview should personalize identity, context, routines, and intentional deviations instead of rebuilding the rules from scratch.
 
 **When to read this:** Read when conducting first setup or an owner-approved identity/workflow redesign.
 
@@ -22,6 +23,7 @@ source: ai
 - Separate facts, preferences, hypotheses, and unresolved choices.
 - Do not edit files during discovery.
 - Do not assume common folders, routines, productivity methods, or life categories apply.
+- Treat `os/agent-rules.md` and the starter defaults in `os/me.md` as the baseline. Ask what should change, not whether every default should be reinvented.
 - Prefer the smallest structure that can support the owner's next month.
 - At the end, present a blueprint and wait for explicit approval.
 
@@ -79,6 +81,19 @@ Learn:
 - what the agent should proactively notice
 - behavior that would feel irritating, controlling, vague, or unsafe
 
+Compare answers against the starter defaults:
+
+- brief by default
+- lead with point, risk, or next action
+- plain language
+- options with tradeoffs
+- no more than three priorities unless asked
+- teach without over-explaining
+- push back on vague, bloated, risky, or drifting plans
+- use short plans before substantial ambiguous work
+
+Only change these defaults when the owner explicitly prefers a different pattern.
+
 ## section 6 — permissions and privacy
 
 Learn:
@@ -91,6 +106,14 @@ Learn:
 - legal, medical, financial, security, communication, or relationship boundaries
 
 Never ask for passwords, API keys, seed phrases, private keys, or authentication secrets.
+
+Keep these defaults unless the owner deliberately approves something narrower:
+
+- ask before sending, posting, publishing, spending, trading, sharing private context, committing, pushing, deploying, or creating public resources
+- archive instead of delete
+- no secrets in the vault
+- do not rewrite controlled operating files without current permission
+- minimize duplicated private context
 
 ## section 7 — knowledge and retrieval
 
